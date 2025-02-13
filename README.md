@@ -1,4 +1,4 @@
-# PKI Certificate Lifecycle Management (Full Version)
+# PKI Certificate Lifecycle Management Assessment Project 13 FEB
 This project demonstrates the complete lifecycle management of certificates using C# and .NET Core.
 
 ## Features Implemented
