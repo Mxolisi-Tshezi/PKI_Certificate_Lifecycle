@@ -26,6 +26,3 @@ dotnet run
 cd PKI_Certificate_Lifecycle.Tests
 dotnet test
 ```
-
-## Future Enhancements
-- Implement OCSP for real-time certificate validation.
