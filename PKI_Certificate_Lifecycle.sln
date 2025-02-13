@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PKI_Certificate_Lifecycle", "PKI_Certificate_Lifecycle\PKI_Certificate_Lifecycle.csproj", "{344A375B-6DDD-1126-3862-ED756469815A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PKI_Certificate_Lifecycle.Tests", "PKI_Certificate_Lifecycle.Tests\PKI_Certificate_Lifecycle.Tests.csproj", "{3F695618-6838-318E-BFC9-94D68C3F2F7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{344A375B-6DDD-1126-3862-ED756469815A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{344A375B-6DDD-1126-3862-ED756469815A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{344A375B-6DDD-1126-3862-ED756469815A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{344A375B-6DDD-1126-3862-ED756469815A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F695618-6838-318E-BFC9-94D68C3F2F7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F695618-6838-318E-BFC9-94D68C3F2F7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F695618-6838-318E-BFC9-94D68C3F2F7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F695618-6838-318E-BFC9-94D68C3F2F7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AA1CEC7-4203-4D8E-BACC-13A2AEB30DD1}
+	EndGlobalSection
+EndGlobal
