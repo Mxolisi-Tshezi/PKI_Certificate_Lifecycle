@@ -1,0 +1,17 @@
+C:\Users\Mxolisi\Downloads\Porjtec\PKI_Certificate_Lifecycle\PKI_Certificate_Lifecycle\bin\Debug\net6.0\PKI_Certificate_Lifecycle.exe
+C:\Users\Mxolisi\Downloads\Porjtec\PKI_Certificate_Lifecycle\PKI_Certificate_Lifecycle\bin\Debug\net6.0\PKI_Certificate_Lifecycle.deps.json
+C:\Users\Mxolisi\Downloads\Porjtec\PKI_Certificate_Lifecycle\PKI_Certificate_Lifecycle\bin\Debug\net6.0\PKI_Certificate_Lifecycle.runtimeconfig.json
+C:\Users\Mxolisi\Downloads\Porjtec\PKI_Certificate_Lifecycle\PKI_Certificate_Lifecycle\bin\Debug\net6.0\PKI_Certificate_Lifecycle.dll
+C:\Users\Mxolisi\Downloads\Porjtec\PKI_Certificate_Lifecycle\PKI_Certificate_Lifecycle\bin\Debug\net6.0\PKI_Certificate_Lifecycle.pdb
+C:\Users\Mxolisi\Downloads\Porjtec\PKI_Certificate_Lifecycle\PKI_Certificate_Lifecycle\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Mxolisi\Downloads\Porjtec\PKI_Certificate_Lifecycle\PKI_Certificate_Lifecycle\obj\Debug\net6.0\PKI_Certificate_Lifecycle.csproj.AssemblyReference.cache
+C:\Users\Mxolisi\Downloads\Porjtec\PKI_Certificate_Lifecycle\PKI_Certificate_Lifecycle\obj\Debug\net6.0\PKI_Certificate_Lifecycle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mxolisi\Downloads\Porjtec\PKI_Certificate_Lifecycle\PKI_Certificate_Lifecycle\obj\Debug\net6.0\PKI_Certificate_Lifecycle.AssemblyInfoInputs.cache
+C:\Users\Mxolisi\Downloads\Porjtec\PKI_Certificate_Lifecycle\PKI_Certificate_Lifecycle\obj\Debug\net6.0\PKI_Certificate_Lifecycle.AssemblyInfo.cs
+C:\Users\Mxolisi\Downloads\Porjtec\PKI_Certificate_Lifecycle\PKI_Certificate_Lifecycle\obj\Debug\net6.0\PKI_Certificate_Lifecycle.csproj.CoreCompileInputs.cache
+C:\Users\Mxolisi\Downloads\Porjtec\PKI_Certificate_Lifecycle\PKI_Certificate_Lifecycle\obj\Debug\net6.0\PKI_Cert.8DDEB2EA.Up2Date
+C:\Users\Mxolisi\Downloads\Porjtec\PKI_Certificate_Lifecycle\PKI_Certificate_Lifecycle\obj\Debug\net6.0\PKI_Certificate_Lifecycle.dll
+C:\Users\Mxolisi\Downloads\Porjtec\PKI_Certificate_Lifecycle\PKI_Certificate_Lifecycle\obj\Debug\net6.0\refint\PKI_Certificate_Lifecycle.dll
+C:\Users\Mxolisi\Downloads\Porjtec\PKI_Certificate_Lifecycle\PKI_Certificate_Lifecycle\obj\Debug\net6.0\PKI_Certificate_Lifecycle.pdb
+C:\Users\Mxolisi\Downloads\Porjtec\PKI_Certificate_Lifecycle\PKI_Certificate_Lifecycle\obj\Debug\net6.0\PKI_Certificate_Lifecycle.genruntimeconfig.cache
+C:\Users\Mxolisi\Downloads\Porjtec\PKI_Certificate_Lifecycle\PKI_Certificate_Lifecycle\obj\Debug\net6.0\ref\PKI_Certificate_Lifecycle.dll

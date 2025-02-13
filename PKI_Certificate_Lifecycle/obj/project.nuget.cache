@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "SOyCjFe4bPs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mxolisi\\Downloads\\Porjtec\\PKI_Certificate_Lifecycle\\PKI_Certificate_Lifecycle\\PKI_Certificate_Lifecycle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mxolisi\\.nuget\\packages\\bouncycastle.netcore\\1.9.0\\bouncycastle.netcore.1.9.0.nupkg.sha512",
+    "C:\\Users\\Mxolisi\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Mxolisi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Mxolisi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Mxolisi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

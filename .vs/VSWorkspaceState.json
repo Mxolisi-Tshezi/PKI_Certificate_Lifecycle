@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\PKI_Certificate_Lifecycle",
+    "\\PKI_Certificate_Lifecycle.Tests",
+    "\\PKI_Certificate_Lifecycle\\Services"
+  ],
+  "SelectedNode": "\\PKI_Certificate_Lifecycle\\Services\\CertificateService.cs",
+  "PreviewInSolutionExplorer": false
+}

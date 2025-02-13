@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mxolisi\\Downloads\\Porjtec\\PKI_Certificate_Lifecycle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mxolisi\\Downloads\\Porjtec\\PKI_Certificate_Lifecycle\\PKI_Certificate_Lifecycle\\Services\\CertificateService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PKI_Certificate_Lifecycle\\Services\\CertificateService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mxolisi\\Downloads\\Porjtec\\PKI_Certificate_Lifecycle\\PKI_Certificate_Lifecycle\\PKI_Certificate_Lifecycle.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PKI_Certificate_Lifecycle\\PKI_Certificate_Lifecycle.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mxolisi\\Downloads\\Porjtec\\PKI_Certificate_Lifecycle\\PKI_Certificate_Lifecycle\\CRL_List.crl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PKI_Certificate_Lifecycle\\CRL_List.crl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mxolisi\\Downloads\\Porjtec\\PKI_Certificate_Lifecycle\\CRL_List.crl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRL_List.crl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mxolisi\\Downloads\\Porjtec\\PKI_Certificate_Lifecycle\\PKI_Certificate_Lifecycle.Tests\\PKI_Certificate_Lifecycle.Tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PKI_Certificate_Lifecycle.Tests\\PKI_Certificate_Lifecycle.Tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mxolisi\\Downloads\\Porjtec\\PKI_Certificate_Lifecycle\\PKI_Certificate_Lifecycle.Tests\\CertificateServiceTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PKI_Certificate_Lifecycle.Tests\\CertificateServiceTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CRL_List.crl",
+              "DocumentMoniker": "C:\\Users\\Mxolisi\\Downloads\\Porjtec\\PKI_Certificate_Lifecycle\\PKI_Certificate_Lifecycle\\CRL_List.crl",
+              "RelativeDocumentMoniker": "PKI_Certificate_Lifecycle\\CRL_List.crl",
+              "ToolTip": "C:\\Users\\Mxolisi\\Downloads\\Porjtec\\PKI_Certificate_Lifecycle\\PKI_Certificate_Lifecycle\\CRL_List.crl",
+              "RelativeToolTip": "PKI_Certificate_Lifecycle\\CRL_List.crl",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|",
+              "WhenOpened": "2025-02-13T10:36:47.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PKI_Certificate_Lifecycle.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\Mxolisi\\Downloads\\Porjtec\\PKI_Certificate_Lifecycle\\PKI_Certificate_Lifecycle.Tests\\PKI_Certificate_Lifecycle.Tests.csproj",
+              "RelativeDocumentMoniker": "PKI_Certificate_Lifecycle.Tests\\PKI_Certificate_Lifecycle.Tests.csproj",
+              "ToolTip": "C:\\Users\\Mxolisi\\Downloads\\Porjtec\\PKI_Certificate_Lifecycle\\PKI_Certificate_Lifecycle.Tests\\PKI_Certificate_Lifecycle.Tests.csproj",
+              "RelativeToolTip": "PKI_Certificate_Lifecycle.Tests\\PKI_Certificate_Lifecycle.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-13T10:07:10.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CRL_List.crl",
+              "DocumentMoniker": "C:\\Users\\Mxolisi\\Downloads\\Porjtec\\PKI_Certificate_Lifecycle\\CRL_List.crl",
+              "RelativeDocumentMoniker": "CRL_List.crl",
+              "ToolTip": "C:\\Users\\Mxolisi\\Downloads\\Porjtec\\PKI_Certificate_Lifecycle\\CRL_List.crl",
+              "RelativeToolTip": "CRL_List.crl",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|",
+              "WhenOpened": "2025-02-13T09:54:31.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CertificateServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Mxolisi\\Downloads\\Porjtec\\PKI_Certificate_Lifecycle\\PKI_Certificate_Lifecycle.Tests\\CertificateServiceTests.cs",
+              "RelativeDocumentMoniker": "PKI_Certificate_Lifecycle.Tests\\CertificateServiceTests.cs",
+              "ToolTip": "C:\\Users\\Mxolisi\\Downloads\\Porjtec\\PKI_Certificate_Lifecycle\\PKI_Certificate_Lifecycle.Tests\\CertificateServiceTests.cs",
+              "RelativeToolTip": "PKI_Certificate_Lifecycle.Tests\\CertificateServiceTests.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAqwEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T09:53:24.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CertificateService.cs",
+              "DocumentMoniker": "C:\\Users\\Mxolisi\\Downloads\\Porjtec\\PKI_Certificate_Lifecycle\\PKI_Certificate_Lifecycle\\Services\\CertificateService.cs",
+              "RelativeDocumentMoniker": "PKI_Certificate_Lifecycle\\Services\\CertificateService.cs",
+              "ToolTip": "C:\\Users\\Mxolisi\\Downloads\\Porjtec\\PKI_Certificate_Lifecycle\\PKI_Certificate_Lifecycle\\Services\\CertificateService.cs",
+              "RelativeToolTip": "PKI_Certificate_Lifecycle\\Services\\CertificateService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T09:50:18.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PKI_Certificate_Lifecycle.csproj",
+              "DocumentMoniker": "C:\\Users\\Mxolisi\\Downloads\\Porjtec\\PKI_Certificate_Lifecycle\\PKI_Certificate_Lifecycle\\PKI_Certificate_Lifecycle.csproj",
+              "RelativeDocumentMoniker": "PKI_Certificate_Lifecycle\\PKI_Certificate_Lifecycle.csproj",
+              "ToolTip": "C:\\Users\\Mxolisi\\Downloads\\Porjtec\\PKI_Certificate_Lifecycle\\PKI_Certificate_Lifecycle\\PKI_Certificate_Lifecycle.csproj",
+              "RelativeToolTip": "PKI_Certificate_Lifecycle\\PKI_Certificate_Lifecycle.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-13T09:50:14.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
