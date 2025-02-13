@@ -15,3 +15,4 @@ C:\Users\Mxolisi\Downloads\Porjtec\PKI_Certificate_Lifecycle\PKI_Certificate_Lif
 C:\Users\Mxolisi\Downloads\Porjtec\PKI_Certificate_Lifecycle\PKI_Certificate_Lifecycle\obj\Debug\net6.0\PKI_Certificate_Lifecycle.pdb
 C:\Users\Mxolisi\Downloads\Porjtec\PKI_Certificate_Lifecycle\PKI_Certificate_Lifecycle\obj\Debug\net6.0\PKI_Certificate_Lifecycle.genruntimeconfig.cache
 C:\Users\Mxolisi\Downloads\Porjtec\PKI_Certificate_Lifecycle\PKI_Certificate_Lifecycle\obj\Debug\net6.0\ref\PKI_Certificate_Lifecycle.dll
+C:\Users\Mxolisi\Downloads\Porjtec\PKI_Certificate_Lifecycle\PKI_Certificate_Lifecycle\obj\Debug\net6.0\PKI_Certificate_Lifecycle.sourcelink.json

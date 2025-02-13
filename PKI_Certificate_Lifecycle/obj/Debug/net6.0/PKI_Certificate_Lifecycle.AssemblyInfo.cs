@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PKI_Certificate_Lifecycle")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2bb1ea58c16222a9a69e479df786a8c4e300e5a0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0039a16ab27176f2e82e4cd4b3d5ef99ca06ed7d")]
 [assembly: System.Reflection.AssemblyProductAttribute("PKI_Certificate_Lifecycle")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PKI_Certificate_Lifecycle")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
